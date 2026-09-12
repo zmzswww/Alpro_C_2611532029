@@ -1,6 +1,6 @@
 # Buat file dengan nama Input_NIM.py
 # Buat program untuk menghitung luas persegi panjang
-# Nama variabel ditambah 4 digit nimm terakhir contoh: panjang_1234
+# Nama variabel ditambah 4 digit nimm terakhir contoh: panjang_2029
 # Program ini menggunakan fungsi input() untuk meminta pengguna
 # Memasukkan nilai panjang dan lebar persegi panjang
 # Nilai yang dimasukkan akan dikonversi menjadi tipe data integer

@@ -1,6 +1,6 @@
-#
-#
-#
+# Buat file dengan nama Konstanta_2611532029
+# Program ini menggunakan konstanta untuk menghitun luas lingkaran
+# nama variabel ditambah 4 digit nim terakhir contoh: jari_2029
 from typing import Final
 PI: Final = 3.14
 print("pi: %f" % (PI))
