@@ -14,7 +14,7 @@ nama_2029 = input("Masukkan Nama Mahasiswa     : ")
 jk_2029 = input("Masukkan Jenis Kelamin (L/P): ")
 
 # Menyimpan alamat tempat tinggal secara multiline menggunakan tanda petik tiga
-alamat_2029 = """Jl. Kampus Unand, Kecamatan Pauh, Kota Padang"""
+alamat_2029 = """Jl. Koto Tuo No.8, Limau Manis, Kec. Pauh, Kota Padang, Sumatera Barat 25163"""
 
 
 # === INPUT DATA & TYPE CASTING (Tipe Data Numerik) ===
