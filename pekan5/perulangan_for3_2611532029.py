@@ -6,11 +6,11 @@
 ulang_2029 = int(input("Masukkan jumlah perulangan: "))
 
 jumlah_2029 = 0
-for i in range(1, ulang_2029+1):
-    print(i, end=" ")
-    jumlah_2029 = jumlah_2029 + i
+for i_2029 in range(1, ulang_2029+1):
+    print(i_2029, end=" ")
+    jumlah_2029 = jumlah_2029 + i_2029
 
-    if i < ulang_2029:
+    if i_2029 < ulang_2029:
         print(" + ", end="")
     else:
         print(" = ", jumlah_2029, end="")
